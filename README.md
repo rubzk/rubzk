@@ -1,18 +1,13 @@
 # About me
 
-My name is Tomás Ertola, I have a major in Business Management but I felt in love since I was first introduced to the industry. I've been working, studying, writting and competing. I love to learn new things.
+My name is Tomás Ertola, I have a major in Business Management but I felt in love since I was first introduced to the industry. I've been working, studying, writting and competing.
 
 ## Personal Projects
 
-### Churn-Prediction:
-
-This project is devoted to an analysis of a Tele Communication company data set and to test different models to predict whether the customer churn or not.
-
-[Github Repository]()
-
 ### spotiCluster (WIP):
 
-A flask web app that loads your data and helps you to understand your taste in music.
+A flask web app that loads your spotify data and generates plots to help you analyze your music taste
+
 [Github Repository]()
 
 ### BCRA mini-analysis:
@@ -20,10 +15,18 @@ A flask web app that loads your data and helps you to understand your taste in m
 This was an assessment required from a company. The goal was to look for key insights for a fintech with the avaliable public data on the internet 
 [Github Repository]()
 
+### Churn-Prediction:
+
+This project is devoted to an analysis of a Tele Communication company data set and to test different models to predict whether the customer churn or not.
+
+[Github Repository](https://github.com/rubzk/churn-prediction)
+
 
 ### Automatic Flight Search:
 
 One of my first steps in python... a short script that scrappes cheapests flights in a local website called TurismoCity and saves the data in a SQL lite.
+
+[Github Repository](https://github.com/rubzk/automatic_flight_searchs)
 
 
 ## Competitions
