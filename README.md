@@ -12,7 +12,8 @@ A flask web app that loads your spotify data and generates plots to help you ana
 
 ### BCRA mini-analysis:
 
-This was an assessment required from a company. The goal was to look for key insights for a fintech with the avaliable public data on the internet 
+This was an assessment required from a company. The goal was to look for key insights for a fintech with the avaliable public data on the internet
+
 [Github Repository]()
 
 ### Churn-Prediction:
