@@ -1,6 +1,6 @@
 # About me
 
-My name is Tomás Ertola, I majored in Business Management but I felt in love with data since I was first introduced to the industry. I've been working, studying, writting and competing.
+My name is Tomás Ertola, I majored in Business Management but I felt in love with data since I was first introduced to the industry and since then I've been working, studying, writting and competing.
 
 ## Personal Projects
 
