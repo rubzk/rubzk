@@ -1,6 +1,6 @@
-# About me
+# about me
 
-My name is Tomás Ertola, I majored in Business Management but I felt in love with data since I was first introduced to the industry and since then I've been working, studying, writting and competing.
+A constant learner drove by my inexhaustible curiosity. I consider myself a bridge between business and tech. Love to solve problems with data. In my free time I enjoy researching about new topics, right now I am digging into e-sports analytics.
 
 ## Personal Projects
 
