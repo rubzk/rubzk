@@ -17,5 +17,5 @@ A constant learner drove by my inexhaustible curiosity. I consider myself a brid
 * [linkedin](https://www.linkedin.com/in/tomas-ertola/)
 * [kaggle](https://www.kaggle.com/rubzzz)
 * tomas.ertola@gmail.com
-* [blog](htttps://rubz.dev/posts)
+* [blog](https://rubz.dev/posts)
 
